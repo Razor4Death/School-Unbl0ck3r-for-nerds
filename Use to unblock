@@ -1,0 +1,11 @@
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
+Copy that then press bookmark button then press more...
+After that delete the website url from the bookmark then paste the code into the url box
+Then rename the bookmark to ingot.
+Now go to google.com and press the bookmark.
+Then you want to press redirect.
+So now after you press redirect it should say error 404 or smth like that.
+Press the bookmark again.
+Then disable all the extentions.
+Now in a new tab test it out.
+Your welcome
